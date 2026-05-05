@@ -1,9 +1,7 @@
 @echo off
-echo Construyendo sitio...
-call npx quartz build
+npx quartz build
 
-echo Copiando archivos...
-xcopy public docs /E /I /Y
+git add .
 
-echo Listo 🚀
-pause
+git commit --allow-empty -m "auto update %date% %time%"
+git push
