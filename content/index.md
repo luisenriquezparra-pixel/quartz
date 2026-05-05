@@ -1,69 +1,64 @@
 ---
 title: Welcome to Quartz
 ---
-# Mi web
+# 🚀 Página de Prueba - Obsidian + Quartz
 
-# Hola Luis 😎
-
-Esta es mi página
-
-## Notas
-
-- hola mundo2
-- entonces queloque
-- CAMBIO FINAL 🔥🔥🔥
-- esto
-- mira pasa esto y esto
-- espero que sea el ultimo
-- no fue el ultimo
-- jsjssj
-- sdfsf
-- sdfsdff
-- sdfsf
-- ## PRUEBA FINAL REAL 🔥🔥🔥
-- ## PRUEBA FINAL REAL 🔥🔥🔥
-- # 🚀 PRUEBA FINAL AUTOMÁTICA
-
-## 🧪 Test de actualización
-
-Este es un cambio para verificar que:
-
-- Obsidian guarda ✅  
-- Node detecta cambios ✅  
-- Quartz hace build ✅  
-- Git hace push ✅  
-- GitHub Pages actualiza ✅  
+## 🧠 Bienvenido
+Esta es una página de prueba para verificar que todo funciona correctamente:
+- Enlaces internos
+- Código
+- Listas
+- Bloques visuales
 
 ---
 
-## 📌 Lista de prueba
+## 🔗 Enlaces
 
-- hola mundo
-- esto es una prueba
-- automatización funcionando
-- cambio detectado correctamente
+### 📄 Enlace interno
+Ir a otra nota:
+[[Mi Segunda Nota]]
 
----
-
-## 🔥 Cambio fuerte (para asegurar commit)
-
-CAMBIO IMPORTANTE: 123456789  
-FECHA: 2026-05-04  
-ESTADO: FUNCIONANDO  
+### 🌐 Enlace externo
+Visitar GitHub:
+https://github.com
 
 ---
 
-## ✍️ Texto extra
+## 🧩 Listas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+### ✅ Lista de tareas
+- [ ] Aprender Markdown
+- [ ] Configurar Quartz
+- [ ] Subir a GitHub Pages
+- [ ] Hacer web interactiva
+
+### 📌 Lista normal
+- Python
+- Lua
+- Web
+- Juegos
+- 
+---
+
+## 🧩 Extra (opcional)
+
+Crea otra nota llamada:
+
+```markdown
+# Mi Segunda Nota
+
+Volver a la página principal:
+[[Página de Prueba - Obsidian + Quartz]]
 
 ---
 
-## 🧠 Nota
+## 💻 Código
 
-Si ves este contenido en tu web...
+### Python
+```python
+def saludo(nombre):
+    return f"Hola {nombre}"
 
-👉 TODO ESTÁ FUNCIONANDO PERFECTO 😎
-hola
-hola otra vez
+print(saludo("Luis"))
+
+

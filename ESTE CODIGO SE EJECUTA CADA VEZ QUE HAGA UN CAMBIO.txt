@@ -1,0 +1,3 @@
+npx quartz build && git add . && git commit -m "update" && git push
+
+este codigo se debe ejecutar en la terminal siempre
