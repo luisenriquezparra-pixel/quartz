@@ -3,17 +3,12 @@ title: Welcome to Quartz
 ---
 # Mi web
 
-Hola Luis 😎  ira cambiando aver si funciona
+# Hola Luis 😎
+
 Esta es mi página
 
-hola mundo2
-entonces queloque
-edotamdp editando que digo
-otra pruebasdfsdf
+## Notas
 
-sdf ashefiush
-sfs
-sdfsjdlfk
-
-CAMBIO FINAL 🔥🔥🔥
-final
+- hola mundo2
+- entonces queloque
+- CAMBIO FINAL 🔥🔥🔥
